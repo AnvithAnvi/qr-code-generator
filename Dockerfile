@@ -1,5 +1,5 @@
 # Use ARM-compatible Python image for Apple Silicon
-FROM --platform=linux/arm64 python:3.12-slim-bullseye
+FROM python:3.12-slim-bullseye
 
 # Set the working directory
 WORKDIR /app
