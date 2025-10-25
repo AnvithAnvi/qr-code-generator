@@ -95,7 +95,6 @@ I resolved Apple Silicon (Rosetta) compatibility issues by switching to ARM64 ba
 
 ## 👤 Author
 **Krishna Anvith Vattikuti**  
-Master’s in Data Science – NJIT  
-📍 New Jersey, USA  
 📧 vattikutianvith@gmail.com  
 🔗 [GitHub](https://github.com/anvith123) | [DockerHub](https://hub.docker.com/u/anvith123)
+
